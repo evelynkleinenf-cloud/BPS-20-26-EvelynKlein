@@ -1,0 +1,76 @@
+{
+  "verified_at": "2026-09-14T23:24:00-03:00",
+  "report_url": "https://datastudio.google.com/reporting/98b84360-ce27-4ce7-a857-80bfe1c8a016",
+  "source": "BPS_2020_2026_EvelynKlein",
+  "visuals": [
+    {
+      "type": "line",
+      "dimension": "mes_compra",
+      "metrics": [
+        "preco_total",
+        "Record Count"
+      ]
+    },
+    {
+      "type": "bar",
+      "dimension": "uf",
+      "metrics": [
+        "preco_total",
+        "Record Count"
+      ]
+    },
+    {
+      "type": "bar",
+      "dimension": "municipio",
+      "metrics": [
+        "preco_total",
+        "Record Count"
+      ]
+    },
+    {
+      "type": "bar",
+      "dimension": "instituicao",
+      "metrics": [
+        "preco_total",
+        "Record Count"
+      ]
+    },
+    {
+      "type": "pie",
+      "dimension": "modalidade",
+      "metrics": [
+        "preco_total"
+      ]
+    },
+    {
+      "type": "table",
+      "dimensions": [
+        "produto",
+        "instituicao"
+      ],
+      "metrics": [
+        "preco_total",
+        "Record Count"
+      ]
+    }
+  ],
+  "kpis": [
+    "SUM(preco_total)",
+    "SUM(quantidade)",
+    "SUM(registros)",
+    "COUNT_DISTINCT(instituicao_id)",
+    "COUNT_DISTINCT(fornecedor_id)",
+    "SUM(preco_total)/SUM(quantidade)"
+  ],
+  "controls": [
+    "ano_compra",
+    "uf",
+    "modalidade",
+    "produto",
+    "fornecedor",
+    "fabricante"
+  ],
+  "general_access": "Não listado / Leitor",
+  "manual_value_selection_tests": "PENDENTE"
+}
+

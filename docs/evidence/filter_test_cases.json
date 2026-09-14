@@ -1,0 +1,157 @@
+[
+  {
+    "case": "sem_filtros",
+    "filters": {},
+    "status": "PASS_DATA",
+    "preco_total": "115121479090.7891",
+    "quantidade": "64811007566.0000",
+    "registros": 367638,
+    "instituicoes": 854,
+    "fornecedores": 3671,
+    "preco_ponderado": "1.776264301608884202175280837",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "ano_compra",
+    "filters": {
+      "ano_compra": "2022"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "16872583339.2273",
+    "quantidade": "15213456252.0000",
+    "registros": 89555,
+    "instituicoes": 421,
+    "fornecedores": 1767,
+    "preco_ponderado": "1.109056552287990895916502748",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "uf",
+    "filters": {
+      "uf": "PR"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "42955942581.1114",
+    "quantidade": "9643479992.0000",
+    "registros": 79136,
+    "instituicoes": 175,
+    "fornecedores": 1257,
+    "preco_ponderado": "4.454402624026453209029481647",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "municipio",
+    "filters": {
+      "municipio": "CURITIBA / PR"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "28036644859.5501",
+    "quantidade": "7464167475.0000",
+    "registros": 6055,
+    "instituicoes": 9,
+    "fornecedores": 336,
+    "preco_ponderado": "3.756165031593171748869420966",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "modalidade",
+    "filters": {
+      "modalidade": "PREGÃO"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "106186732019.8733",
+    "quantidade": "58049185307.0000",
+    "registros": 332545,
+    "instituicoes": 822,
+    "fornecedores": 3248,
+    "preco_ponderado": "1.829254475464077162022659082",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "instituicao",
+    "filters": {
+      "instituicao": "CONSORCIO INTERMUNICIPAL [I0442]"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "1751941490.1709",
+    "quantidade": "5103296081.0000",
+    "registros": 6220,
+    "instituicoes": 1,
+    "fornecedores": 109,
+    "preco_ponderado": "0.3432960702972977279622589078",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "fornecedor",
+    "filters": {
+      "fornecedor": "INOVAMED HOSPITALAR LTDA [F1272]"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "416042198.3309",
+    "quantidade": "2384486670.0000",
+    "registros": 8589,
+    "instituicoes": 278,
+    "fornecedores": 1,
+    "preco_ponderado": "0.1744787268325974747428552410",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "fabricante",
+    "filters": {
+      "fabricante": "PRATI, DONADUZZI & CIA L [M2235]"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "1483094348.6977",
+    "quantidade": "9145409109.0000",
+    "registros": 24109,
+    "instituicoes": 716,
+    "fornecedores": 779,
+    "preco_ponderado": "0.1621681797961543767172329786",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "produto",
+    "filters": {
+      "produto": "268236 | CLORETO DE SÓDIO, PRINCÍPIO ATIVO:0,9%_ SOLUÇÃ [P0372]"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "318137754.0054",
+    "quantidade": "104233344.0000",
+    "registros": 1749,
+    "instituicoes": 333,
+    "fornecedores": 334,
+    "preco_ponderado": "3.052168737917494041062330304",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "combinado",
+    "filters": {
+      "ano_compra": "2021",
+      "uf": "PB",
+      "modalidade": "PREGÃO"
+    },
+    "status": "PASS_DATA",
+    "preco_total": "21258377.7220",
+    "quantidade": "34887468.0000",
+    "registros": 4319,
+    "instituicoes": 30,
+    "fornecedores": 59,
+    "preco_ponderado": "0.6093413750175277839022310246",
+    "manual_dashboard_status": "PENDENTE"
+  },
+  {
+    "case": "sem_resultados",
+    "filters": {
+      "uf": "INEXISTENTE"
+    },
+    "status": "PASS_DATA",
+    "preco_total": null,
+    "quantidade": null,
+    "registros": 0,
+    "instituicoes": 0,
+    "fornecedores": 0,
+    "preco_ponderado": null,
+    "manual_dashboard_status": "PENDENTE"
+  }
+]
+

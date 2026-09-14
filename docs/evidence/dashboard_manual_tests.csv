@@ -1,0 +1,10 @@
+filter,scenario,status,evidence
+ano_compra,Selecionar 2025,PENDENTE,Executar no Looker
+uf,Selecionar PR,PENDENTE,Executar no Looker
+municipio,Selecionar Curitiba,PENDENTE,Executar no Looker
+instituicao,Selecionar Secretaria,PENDENTE,Executar no Looker
+fornecedor,Selecionar fornecedor,PENDENTE,Executar no Looker
+fabricante,Selecionar fabricante,PENDENTE,Executar no Looker
+produto,Selecionar produto,PENDENTE,Executar no Looker
+modalidade_compra,Selecionar Pregao,PENDENTE,Executar no Looker
+

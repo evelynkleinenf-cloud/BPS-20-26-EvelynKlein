@@ -1,0 +1,167 @@
+{
+  "portal": "https://dadosabertos.saude.gov.br/dataset/bps",
+  "obtained_at": "2026-09-14T22:30:15.759522+00:00",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "dictionary": {
+    "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/Metadados_BPS_07_04_2026.pdf",
+    "sha256": "80628073bd88de2a73763b8761a96b9fadaf6003cd186cd19d66b54697468a2c"
+  },
+  "files": [
+    {
+      "year": 2020,
+      "resource_id": "96cf6e5f-bab8-4c5a-a6ae-5f24eb07b7c2",
+      "resource_name": "Banco de Preço de Saúde - 2020",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2020_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/96cf6e5f-bab8-4c5a-a6ae-5f24eb07b7c2",
+      "metadata_modified": "2026-09-14T08:53:32.445069",
+      "downloaded_at": "2026-09-14T22:30:10.717486+00:00",
+      "http_headers": {
+        "ETag": "\"1f532d3e83a68f232612c893cf13333e\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:19 GMT",
+        "Content-Length": "7216542",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "5e9a0cd7873e954b1ee7eb6a4ff411f027fc481fa7202cea0983ce44c5c17f48",
+      "archive_bytes": 7216542,
+      "member_name": "2020.csv",
+      "csv_path": "data\\raw\\BPS_2020.csv",
+      "csv_bytes": 52501649,
+      "csv_sha256": "30157e673025494bc4afe4af52c84172fbc8f180f58ddb77fb36f7851f54bfa1"
+    },
+    {
+      "year": 2021,
+      "resource_id": "cbb99213-62b7-4d5c-ace2-c531fa9dc199",
+      "resource_name": "Banco de Preço de Saúde - 2021",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2021_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/cbb99213-62b7-4d5c-ace2-c531fa9dc199",
+      "metadata_modified": "2026-09-14T08:53:34.401939",
+      "downloaded_at": "2026-09-14T22:30:08.096589+00:00",
+      "http_headers": {
+        "ETag": "\"4b26acc62a96ad00c1c5fe3c278bcce5\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:21 GMT",
+        "Content-Length": "7370730",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "e2912e30a635296b555f55f0e98298fc6bcd2e5c98f74c73c287fff95a4261a4",
+      "archive_bytes": 7370730,
+      "member_name": "2021.csv",
+      "csv_path": "data\\raw\\BPS_2021.csv",
+      "csv_bytes": 52867776,
+      "csv_sha256": "d590b1a8880009290d87b0e8908baf1f0db5658f8cf69665160a48ad0b4ab933"
+    },
+    {
+      "year": 2022,
+      "resource_id": "bb1acbbd-9509-46a7-a7e6-5ec9c2d5d728",
+      "resource_name": "Banco de Preço de Saúde - 2022",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2022_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/bb1acbbd-9509-46a7-a7e6-5ec9c2d5d728",
+      "metadata_modified": "2026-09-14T08:53:36.385364",
+      "downloaded_at": "2026-09-14T22:30:10.534754+00:00",
+      "http_headers": {
+        "ETag": "\"4785247eacd9d28501de8f120411c813\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:24 GMT",
+        "Content-Length": "7953415",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "888f11551ab266195d72625177d0b2b5584a8611764feaa634531ca12f745c83",
+      "archive_bytes": 7953415,
+      "member_name": "2022.csv",
+      "csv_path": "data\\raw\\BPS_2022.csv",
+      "csv_bytes": 55819319,
+      "csv_sha256": "c4485b608cf2bf742cf85e6224999000fe733210c24c231b5241cf4184f343a1"
+    },
+    {
+      "year": 2023,
+      "resource_id": "cb9c9b51-4569-428b-8d64-7641d01583bf",
+      "resource_name": "Banco de Preço de Saúde - 2023",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2023_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/cb9c9b51-4569-428b-8d64-7641d01583bf",
+      "metadata_modified": "2026-09-14T08:53:38.275230",
+      "downloaded_at": "2026-09-14T22:30:11.804771+00:00",
+      "http_headers": {
+        "ETag": "\"c46865c7597d9b7170e83c010d3932d8\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:26 GMT",
+        "Content-Length": "3135869",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "b41d034ff6ad781eb048f57d0f2c596121a7a1fab1b620ea21de50cb5f4351f5",
+      "archive_bytes": 3135869,
+      "member_name": "2023.csv",
+      "csv_path": "data\\raw\\BPS_2023.csv",
+      "csv_bytes": 21816263,
+      "csv_sha256": "6a56b41b17ac46df561c150e4b7d92ca167f8b741a44ab3343335d1f119c4a07"
+    },
+    {
+      "year": 2024,
+      "resource_id": "17b4040a-7de1-49ea-af27-b44eaa3a9257",
+      "resource_name": "Banco de Preço de Saúde - 2024",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2024_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/17b4040a-7de1-49ea-af27-b44eaa3a9257",
+      "metadata_modified": "2026-09-14T08:53:40.165596",
+      "downloaded_at": "2026-09-14T22:30:14.081578+00:00",
+      "http_headers": {
+        "ETag": "\"be6708cda96edb670a409a2effdddedb\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:28 GMT",
+        "Content-Length": "2887249",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "e540baeca93122106589a6c8f6a5cee3fcf797aac8735a63f666bcc98393b298",
+      "archive_bytes": 2887249,
+      "member_name": "2024.csv",
+      "csv_path": "data\\raw\\BPS_2024.csv",
+      "csv_bytes": 18763402,
+      "csv_sha256": "fbf6c994ce9791cac6b86c21f143db4817fb49fa88fba62081baac4e18c7c856"
+    },
+    {
+      "year": 2025,
+      "resource_id": "b3bdff3d-36d2-4737-b821-19c4e0e6fcec",
+      "resource_name": "Banco de Preço de Saúde - 2025",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2025_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/b3bdff3d-36d2-4737-b821-19c4e0e6fcec",
+      "metadata_modified": "2026-09-14T08:53:42.013629",
+      "downloaded_at": "2026-09-14T22:30:14.878808+00:00",
+      "http_headers": {
+        "ETag": "\"97199e1dae09c6370ebc36573c4ff1f1\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:29 GMT",
+        "Content-Length": "3689625",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "ed2f2acd9b61018cea9182fd6d586a7428a2574957dee3db0224391aaafe3ddb",
+      "archive_bytes": 3689625,
+      "member_name": "2025.csv",
+      "csv_path": "data\\raw\\BPS_2025.csv",
+      "csv_bytes": 23141132,
+      "csv_sha256": "2dce687c82248ce3eca0dc1d7888946b63190537626897b4772495e330f86b67"
+    },
+    {
+      "year": 2026,
+      "resource_id": "a07564a9-7c6c-4634-9e07-f8320088f5a6",
+      "resource_name": "Banco de Preço de Saúde - 2026",
+      "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/BPS/csv/2026_csv.zip",
+      "resource_page": "https://dadosabertos.saude.gov.br/dataset/bps/resource/a07564a9-7c6c-4634-9e07-f8320088f5a6",
+      "metadata_modified": "2026-09-14T08:53:43.889090",
+      "downloaded_at": "2026-09-14T22:30:14.108970+00:00",
+      "http_headers": {
+        "ETag": "\"6aafbbe30867c7e663010c3ebb5bac32\"",
+        "Last-Modified": "Mon, 14 Sep 2026 08:53:31 GMT",
+        "Content-Length": "1149136",
+        "Content-Type": "binary/octet-stream"
+      },
+      "archive_sha256": "9bd3b75d7ed89d37915a207ea7b533e349017af93eb4d40547d63a30ffe8ffab",
+      "archive_bytes": 1149136,
+      "member_name": "2026.csv",
+      "csv_path": "data\\raw\\BPS_2026.csv",
+      "csv_bytes": 7878869,
+      "csv_sha256": "e58fa5eb67a0a1174acef4af602f4c8895e78f562842c32d1c5cd25e9a9eeb63"
+    }
+  ]
+}
+

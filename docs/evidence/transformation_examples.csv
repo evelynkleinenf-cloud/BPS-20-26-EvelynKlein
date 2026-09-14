@@ -1,0 +1,63 @@
+year,source_row,column,before,after,rule
+2020,664,numero_processo,nÂ° 06/20,n° 06/20,texto_NFC_espacos_encoding
+2020,665,numero_processo,nÂ° 06/20,n° 06/20,texto_NFC_espacos_encoding
+2020,826,numero_processo,Ata nÂº 33/2020,Ata nº 33/2020,texto_NFC_espacos_encoding
+2020,851,numero_processo,Ata nÂº 28/2020,Ata nº 28/2020,texto_NFC_espacos_encoding
+2020,852,numero_processo,Ata nÂº 28/2020,Ata nº 28/2020,texto_NFC_espacos_encoding
+2020,1428,numero_processo,71/2020 do PregÃ£o,71/2020 do Pregão,texto_NFC_espacos_encoding
+2020,1429,numero_processo,71/2020 do PregÃ£o,71/2020 do Pregão,texto_NFC_espacos_encoding
+2020,1430,numero_processo,71/2020 do PregÃ£o,71/2020 do Pregão,texto_NFC_espacos_encoding
+2020,1431,numero_processo,71/2020 do PregÃ£o,71/2020 do Pregão,texto_NFC_espacos_encoding
+2020,1432,numero_processo,71/2020 do PregÃ£o,71/2020 do Pregão,texto_NFC_espacos_encoding
+2021,105,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,106,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,107,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,108,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,109,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,110,numero_processo,304/2020 do PregÃ£o,304/2020 do Pregão,texto_NFC_espacos_encoding
+2021,819,numero_processo,34/2021 do PregÃ£o,34/2021 do Pregão,texto_NFC_espacos_encoding
+2021,820,numero_processo,34/2021 do PregÃ£o,34/2021 do Pregão,texto_NFC_espacos_encoding
+2021,821,numero_processo,34/2021 do PregÃ£o,34/2021 do Pregão,texto_NFC_espacos_encoding
+2021,822,numero_processo,34/2021 do PregÃ£o,34/2021 do Pregão,texto_NFC_espacos_encoding
+2022,373,numero_processo,ARP NÂº 177/FMS/2022,ARP Nº 177/FMS/2022,texto_NFC_espacos_encoding
+2022,1681,numero_processo,PregÃ£o 217/2022,Pregão 217/2022,texto_NFC_espacos_encoding
+2022,1682,numero_processo,PregÃ£o 217/2022,Pregão 217/2022,texto_NFC_espacos_encoding
+2022,1683,numero_processo,PregÃ£o 217/2022,Pregão 217/2022,texto_NFC_espacos_encoding
+2022,1684,numero_processo,PregÃ£o 217/2022,Pregão 217/2022,texto_NFC_espacos_encoding
+2022,1685,numero_processo,PregÃ£o 217/2022,Pregão 217/2022,texto_NFC_espacos_encoding
+2022,1686,numero_processo,PregÃ£o 218/2022,Pregão 218/2022,texto_NFC_espacos_encoding
+2022,1687,numero_processo,PregÃ£o 218/2022,Pregão 218/2022,texto_NFC_espacos_encoding
+2022,1688,numero_processo,PregÃ£o 218/2022,Pregão 218/2022,texto_NFC_espacos_encoding
+2022,1689,numero_processo,PregÃ£o 218/2022,Pregão 218/2022,texto_NFC_espacos_encoding
+2023,571,numero_processo,ARP NÂº 007/FMS/2023,ARP Nº 007/FMS/2023,texto_NFC_espacos_encoding
+2023,900,numero_processo,ARP NÂº 189/FMS/2022,ARP Nº 189/FMS/2022,texto_NFC_espacos_encoding
+2023,901,numero_processo,ARP NÂº 185/FMS/2022,ARP Nº 185/FMS/2022,texto_NFC_espacos_encoding
+2023,902,numero_processo,ARP NÂº 185/FMS/2022,ARP Nº 185/FMS/2022,texto_NFC_espacos_encoding
+2023,903,numero_processo,ARP NÂº 183/FMS/2022,ARP Nº 183/FMS/2022,texto_NFC_espacos_encoding
+2023,904,numero_processo,ARP NÂº 187/FMS/2022,ARP Nº 187/FMS/2022,texto_NFC_espacos_encoding
+2023,905,numero_processo,ARP NÂº 197/FMS/2022,ARP Nº 197/FMS/2022,texto_NFC_espacos_encoding
+2023,906,numero_processo,ARP NÂº 193/FMS/2022,ARP Nº 193/FMS/2022,texto_NFC_espacos_encoding
+2023,907,numero_processo,ARP NÂº 191/FMS/2022,ARP Nº 191/FMS/2022,texto_NFC_espacos_encoding
+2023,908,numero_processo,ARP NÂº 195/FMS/2022,ARP Nº 195/FMS/2022,texto_NFC_espacos_encoding
+2024,15189,observacao,"PREGÃO ELETRÔNICO Nº. 90006/2024 - Registro de Preços para eventual e futura Aquisição de Medicamentos para o ano 2024, a fim de atender as necessidades da Atenção Básica e unidades de Atenção Especializada, como Pré-Hospitalares, Hospitalares e Serviço de Atendimento Móvel de Urgência (SAMU) - e também às necessidades da AME (Ambulatório Médico de Especialidades) Animal, órgão da Secretaria de Serviços Públicos e Sustentabilidade da Prefeitura Municipal de Caruaru (PMC)","PREGÃO ELETRÔNICO Nº. 90006/2024 - Registro de Preços para eventual e futura Aquisição de Medicamentos para o ano 2024, a fim de atender as necessidades da Atenção Básica e unidades de Atenção Especializada, como Pré-Hospitalares, Hospitalares e Serviço de Atendimento Móvel de Urgência (SAMU) - e também às necessidades da AME (Ambulatório Médico de Especialidades) Animal, órgão da Secretaria de Serviços Públicos e Sustentabilidade da Prefeitura Municipal de Caruaru (PMC)",texto_NFC_espacos_encoding
+2025,17821,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,17822,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,17823,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,17844,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,17845,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,17847,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,20968,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,22910,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,22912,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2025,23748,observacao,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,Processo: 717/2025 Ata: 24/2023 Data de Homologação: 13/02/2023,texto_NFC_espacos_encoding
+2026,5091,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5092,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5093,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5094,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5095,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5096,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5097,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5098,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5099,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+2026,5100,observacao,"REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”","REGÃO ELETRÔNICO Nº 90089/2025/SMCL/PVH SRPP Nº 067/2025/SMCL/PVH - Aquisição de material farmacológico (medicamentos) – na apresentação Frascos e Bisnagas, identificado inicialmente como “FRASCOS E BISNAGAS I ”",texto_NFC_espacos_encoding
+

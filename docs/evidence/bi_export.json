@@ -1,0 +1,34 @@
+{
+  "path": "BPS_Looker_EvelynKlein.csv",
+  "rows": 367638,
+  "columns": [
+    "ano_compra",
+    "uf",
+    "municipio",
+    "instituicao",
+    "fornecedor",
+    "fabricante",
+    "produto",
+    "apresentacao",
+    "modalidade",
+    "data_compra",
+    "quantidade",
+    "preco_total",
+    "preco_unitario",
+    "registros",
+    "generico",
+    "registro_anvisa",
+    "faixa_quantidade",
+    "elegivel_preco",
+    "id_bps",
+    "mes_compra",
+    "total_divergente"
+  ],
+  "bytes": 97505367,
+  "sha256": "b4ac1c101c35005d41bb07a0d66fdf0d0bacc012f9cb9c6b06578fc4fe4d2c0f",
+  "row_aggregation": false,
+  "removed_rows": 0,
+  "label_policy": "Nome modal por ID, prefixo legível e chave sequencial única; dicionários completos em bi_dictionaries. Rótulos mudam se o universo de IDs mudar: substituir integralmente a fonte em atualizações.",
+  "warning": "Não fazer append de uma nova extração completa na mesma fonte do Looker: duplicaria os registros."
+}
+

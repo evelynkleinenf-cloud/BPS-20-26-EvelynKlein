@@ -1,0 +1,518 @@
+{
+  "executed_at": "2026-09-14T23:00:21.147741+00:00",
+  "csv_sha256": "d5ba5ec5295eb64c91fa2f725ded0f188dd49612d742136aa905a6b281872d71",
+  "status": "PASS",
+  "checks": [
+    {
+      "check": "linhas_antes_depois",
+      "status": "PASS",
+      "actual": 367638,
+      "expected": 367638
+    },
+    {
+      "check": "anos_exatos",
+      "status": "PASS",
+      "actual": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ],
+      "expected": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    {
+      "check": "registro_id_unico",
+      "status": "PASS",
+      "actual": 367638,
+      "expected": 367638
+    },
+    {
+      "check": "ano_compra_igual_ano_arquivo",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "hash_origem_2020",
+      "status": "PASS",
+      "actual": "30157e673025494bc4afe4af52c84172fbc8f180f58ddb77fb36f7851f54bfa1",
+      "expected": "30157e673025494bc4afe4af52c84172fbc8f180f58ddb77fb36f7851f54bfa1"
+    },
+    {
+      "check": "registros_2020",
+      "status": "PASS",
+      "actual": 84919,
+      "expected": 84919
+    },
+    {
+      "check": "preco_total_2020",
+      "status": "PASS",
+      "actual": "5047158170.4380",
+      "expected": "5047158170.4380"
+    },
+    {
+      "check": "quantidade_2020",
+      "status": "PASS",
+      "actual": "8769651552.0000",
+      "expected": "8769651552.0000"
+    },
+    {
+      "check": "hash_origem_2021",
+      "status": "PASS",
+      "actual": "d590b1a8880009290d87b0e8908baf1f0db5658f8cf69665160a48ad0b4ab933",
+      "expected": "d590b1a8880009290d87b0e8908baf1f0db5658f8cf69665160a48ad0b4ab933"
+    },
+    {
+      "check": "registros_2021",
+      "status": "PASS",
+      "actual": 85012,
+      "expected": 85012
+    },
+    {
+      "check": "preco_total_2021",
+      "status": "PASS",
+      "actual": "7423162974.7920",
+      "expected": "7423162974.7920"
+    },
+    {
+      "check": "quantidade_2021",
+      "status": "PASS",
+      "actual": "10721528292.0000",
+      "expected": "10721528292.0000"
+    },
+    {
+      "check": "hash_origem_2022",
+      "status": "PASS",
+      "actual": "c4485b608cf2bf742cf85e6224999000fe733210c24c231b5241cf4184f343a1",
+      "expected": "c4485b608cf2bf742cf85e6224999000fe733210c24c231b5241cf4184f343a1"
+    },
+    {
+      "check": "registros_2022",
+      "status": "PASS",
+      "actual": 89555,
+      "expected": 89555
+    },
+    {
+      "check": "preco_total_2022",
+      "status": "PASS",
+      "actual": "16872583339.2273",
+      "expected": "16872583339.2273"
+    },
+    {
+      "check": "quantidade_2022",
+      "status": "PASS",
+      "actual": "15213456252.0000",
+      "expected": "15213456252.0000"
+    },
+    {
+      "check": "hash_origem_2023",
+      "status": "PASS",
+      "actual": "6a56b41b17ac46df561c150e4b7d92ca167f8b741a44ab3343335d1f119c4a07",
+      "expected": "6a56b41b17ac46df561c150e4b7d92ca167f8b741a44ab3343335d1f119c4a07"
+    },
+    {
+      "check": "registros_2023",
+      "status": "PASS",
+      "actual": 33831,
+      "expected": 33831
+    },
+    {
+      "check": "preco_total_2023",
+      "status": "PASS",
+      "actual": "4957545775.2617",
+      "expected": "4957545775.2617"
+    },
+    {
+      "check": "quantidade_2023",
+      "status": "PASS",
+      "actual": "10274886691.0000",
+      "expected": "10274886691.0000"
+    },
+    {
+      "check": "hash_origem_2024",
+      "status": "PASS",
+      "actual": "fbf6c994ce9791cac6b86c21f143db4817fb49fa88fba62081baac4e18c7c856",
+      "expected": "fbf6c994ce9791cac6b86c21f143db4817fb49fa88fba62081baac4e18c7c856"
+    },
+    {
+      "check": "registros_2024",
+      "status": "PASS",
+      "actual": 28942,
+      "expected": 28942
+    },
+    {
+      "check": "preco_total_2024",
+      "status": "PASS",
+      "actual": "9089223625.7984",
+      "expected": "9089223625.7984"
+    },
+    {
+      "check": "quantidade_2024",
+      "status": "PASS",
+      "actual": "5725383486.0000",
+      "expected": "5725383486.0000"
+    },
+    {
+      "check": "hash_origem_2025",
+      "status": "PASS",
+      "actual": "2dce687c82248ce3eca0dc1d7888946b63190537626897b4772495e330f86b67",
+      "expected": "2dce687c82248ce3eca0dc1d7888946b63190537626897b4772495e330f86b67"
+    },
+    {
+      "check": "registros_2025",
+      "status": "PASS",
+      "actual": 34233,
+      "expected": 34233
+    },
+    {
+      "check": "preco_total_2025",
+      "status": "PASS",
+      "actual": "50904775385.3438",
+      "expected": "50904775385.3438"
+    },
+    {
+      "check": "quantidade_2025",
+      "status": "PASS",
+      "actual": "8846881823.0000",
+      "expected": "8846881823.0000"
+    },
+    {
+      "check": "hash_origem_2026",
+      "status": "PASS",
+      "actual": "e58fa5eb67a0a1174acef4af602f4c8895e78f562842c32d1c5cd25e9a9eeb63",
+      "expected": "e58fa5eb67a0a1174acef4af602f4c8895e78f562842c32d1c5cd25e9a9eeb63"
+    },
+    {
+      "check": "registros_2026",
+      "status": "PASS",
+      "actual": 11146,
+      "expected": 11146
+    },
+    {
+      "check": "preco_total_2026",
+      "status": "PASS",
+      "actual": "20827029819.9279",
+      "expected": "20827029819.9279"
+    },
+    {
+      "check": "quantidade_2026",
+      "status": "PASS",
+      "actual": "5259219470.0000",
+      "expected": "5259219470.0000"
+    },
+    {
+      "check": "obrigatorio_ano_compra",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_registro_id",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_data_compra",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_preco_total",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_preco_unitario",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_quantidade",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_instituicao_id",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_fornecedor_id",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_codigo_catmat",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "obrigatorio_uf",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "ano_da_data",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "tipo_data_data_compra",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "tipo_data_data_insercao",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_valido_preco_total",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_positivo_preco_total",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_valido_preco_unitario",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_positivo_preco_unitario",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_valido_quantidade",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "numero_positivo_quantidade",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "UFs_reconhecidas",
+      "status": "PASS",
+      "actual": [],
+      "expected": []
+    },
+    {
+      "check": "quantidade_inteira",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "check": "flag_total_reconciliada",
+      "status": "PASS",
+      "actual": 0,
+      "expected": 0
+    }
+  ],
+  "reconciliation": [
+    {
+      "year": 2020,
+      "raw_rows": 84919,
+      "final_rows": 84919,
+      "raw_value": "5047158170.4380",
+      "final_value": "5047158170.4380",
+      "raw_quantity": "8769651552.0000",
+      "final_quantity": "8769651552.0000"
+    },
+    {
+      "year": 2021,
+      "raw_rows": 85012,
+      "final_rows": 85012,
+      "raw_value": "7423162974.7920",
+      "final_value": "7423162974.7920",
+      "raw_quantity": "10721528292.0000",
+      "final_quantity": "10721528292.0000"
+    },
+    {
+      "year": 2022,
+      "raw_rows": 89555,
+      "final_rows": 89555,
+      "raw_value": "16872583339.2273",
+      "final_value": "16872583339.2273",
+      "raw_quantity": "15213456252.0000",
+      "final_quantity": "15213456252.0000"
+    },
+    {
+      "year": 2023,
+      "raw_rows": 33831,
+      "final_rows": 33831,
+      "raw_value": "4957545775.2617",
+      "final_value": "4957545775.2617",
+      "raw_quantity": "10274886691.0000",
+      "final_quantity": "10274886691.0000"
+    },
+    {
+      "year": 2024,
+      "raw_rows": 28942,
+      "final_rows": 28942,
+      "raw_value": "9089223625.7984",
+      "final_value": "9089223625.7984",
+      "raw_quantity": "5725383486.0000",
+      "final_quantity": "5725383486.0000"
+    },
+    {
+      "year": 2025,
+      "raw_rows": 34233,
+      "final_rows": 34233,
+      "raw_value": "50904775385.3438",
+      "final_value": "50904775385.3438",
+      "raw_quantity": "8846881823.0000",
+      "final_quantity": "8846881823.0000"
+    },
+    {
+      "year": 2026,
+      "raw_rows": 11146,
+      "final_rows": 11146,
+      "raw_value": "20827029819.9279",
+      "final_value": "20827029819.9279",
+      "raw_quantity": "5259219470.0000",
+      "final_quantity": "5259219470.0000"
+    }
+  ],
+  "nulls": {
+    "ano_compra": 0,
+    "cnpj_instituicao": 0,
+    "uf": 0,
+    "esfera": 0,
+    "data_compra": 0,
+    "data_insercao": 2142,
+    "validade_compra": 0,
+    "codigo_catmat": 0,
+    "descricao_produto": 0,
+    "codigo_pdm": 398,
+    "codigo_grupo": 398,
+    "grupo": 398,
+    "codigo_classe": 398,
+    "classe": 398,
+    "generico": 179729,
+    "tipo_compra": 0,
+    "unidade_medida": 233829,
+    "cnpj_fornecedor": 0,
+    "fornecedor": 0,
+    "cnpj_fabricante": 0,
+    "fabricante": 0,
+    "quantidade": 0,
+    "observacao": 58772,
+    "instituicao": 285,
+    "municipio": 0,
+    "unidade_apresentacao": 35,
+    "pdm": 398,
+    "numero_processo": 1,
+    "numero_ata": 278041,
+    "unidade_fornecimento": 35,
+    "registro_anvisa": 179729,
+    "modalidade_compra": 0,
+    "capacidade_informada": 233829,
+    "preco_unitario": 0,
+    "preco_total": 0,
+    "id_bps": 0,
+    "flag_invalido_quantidade": 0,
+    "flag_invalido_preco_unitario": 0,
+    "flag_invalido_preco_total": 0,
+    "flag_invalido_capacidade_informada": 0,
+    "flag_invalido_data_compra": 0,
+    "flag_invalido_data_insercao": 0,
+    "flag_formato_cnpj_instituicao": 0,
+    "flag_formato_cnpj_fornecedor": 0,
+    "flag_formato_cnpj_fabricante": 0,
+    "ano_arquivo": 0,
+    "arquivo_origem": 0,
+    "linha_origem": 0,
+    "registro_id": 0,
+    "instituicao_id": 0,
+    "fornecedor_id": 0,
+    "fabricante_id": 0,
+    "municipio_uf": 0,
+    "produto": 0,
+    "mes_compra": 0,
+    "trimestre_compra": 0,
+    "flag_ano_data_divergente": 0,
+    "flag_data_futura": 0,
+    "flag_insercao_anterior_compra": 0,
+    "preco_total_calculado": 0,
+    "diferenca_total": 0,
+    "flag_total_divergente": 0,
+    "flag_quantidade_nao_positiva": 0,
+    "flag_preco_negativo": 0,
+    "flag_total_negativo": 0,
+    "faixa_quantidade": 0,
+    "elegivel_preco": 0,
+    "flag_duplicado_id_bps": 0,
+    "flag_duplicado_exato": 0,
+    "flag_possivel_duplicado_negocio": 0
+  },
+  "flags": {
+    "flag_invalido_quantidade": 0,
+    "flag_invalido_preco_unitario": 0,
+    "flag_invalido_preco_total": 0,
+    "flag_invalido_capacidade_informada": 0,
+    "flag_invalido_data_compra": 0,
+    "flag_invalido_data_insercao": 0,
+    "flag_formato_cnpj_instituicao": 0,
+    "flag_formato_cnpj_fornecedor": 0,
+    "flag_formato_cnpj_fabricante": 0,
+    "flag_ano_data_divergente": 0,
+    "flag_data_futura": 0,
+    "flag_insercao_anterior_compra": 12,
+    "flag_total_divergente": 0,
+    "flag_quantidade_nao_positiva": 0,
+    "flag_preco_negativo": 0,
+    "flag_total_negativo": 0,
+    "flag_duplicado_id_bps": 0,
+    "flag_duplicado_exato": 0,
+    "flag_possivel_duplicado_negocio": 170
+  },
+  "kpis": {
+    "preco_total": "115121479090.7891",
+    "quantidade": "64811007566.0000",
+    "registros": 367638,
+    "instituicoes": 854,
+    "fornecedores": 3671,
+    "fabricantes": 2375,
+    "preco_medio_ponderado": "1.776264301608884202175280837"
+  },
+  "notes": [
+    "PASS atesta a integridade técnica da transformação; inconsistências da fonte continuam sinalizadas."
+  ]
+}
+

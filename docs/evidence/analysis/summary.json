@@ -1,0 +1,1227 @@
+{
+  "generated_at": "2026-09-14T22:43:42.372892+00:00",
+  "rankings": {
+    "anual": [
+      {
+        "ano_compra": 2025,
+        "registros": 34233,
+        "valor_total": 50904775385.3438,
+        "quantidade_total": 8846881823.0,
+        "instituicoes": 215,
+        "fornecedores": 1237,
+        "preco_ponderado": 5.7539793572241775
+      },
+      {
+        "ano_compra": 2026,
+        "registros": 11146,
+        "valor_total": 20827029819.9279,
+        "quantidade_total": 5259219470.0,
+        "instituicoes": 103,
+        "fornecedores": 636,
+        "preco_ponderado": 3.960099010648038
+      },
+      {
+        "ano_compra": 2022,
+        "registros": 89555,
+        "valor_total": 16872583339.2273,
+        "quantidade_total": 15213456252.0,
+        "instituicoes": 421,
+        "fornecedores": 1767,
+        "preco_ponderado": 1.109056552287991
+      },
+      {
+        "ano_compra": 2024,
+        "registros": 28942,
+        "valor_total": 9089223625.7984,
+        "quantidade_total": 5725383486.0,
+        "instituicoes": 241,
+        "fornecedores": 1115,
+        "preco_ponderado": 1.587530974654158
+      },
+      {
+        "ano_compra": 2021,
+        "registros": 85012,
+        "valor_total": 7423162974.792,
+        "quantidade_total": 10721528292.0,
+        "instituicoes": 479,
+        "fornecedores": 1629,
+        "preco_ponderado": 0.692360526654664
+      },
+      {
+        "ano_compra": 2020,
+        "registros": 84919,
+        "valor_total": 5047158170.438,
+        "quantidade_total": 8769651552.0,
+        "instituicoes": 483,
+        "fornecedores": 1549,
+        "preco_ponderado": 0.5755255086830615
+      },
+      {
+        "ano_compra": 2023,
+        "registros": 33831,
+        "valor_total": 4957545775.2617,
+        "quantidade_total": 10274886691.0,
+        "instituicoes": 280,
+        "fornecedores": 1116,
+        "preco_ponderado": 0.4824915275809439
+      }
+    ],
+    "uf": [
+      {
+        "uf": "PR",
+        "registros": 79136,
+        "valor_total": 42955942581.1114,
+        "quantidade_total": 9643479992.0,
+        "instituicoes": 175,
+        "fornecedores": 1257,
+        "preco_ponderado": 4.454402624026453
+      },
+      {
+        "uf": "SP",
+        "registros": 64571,
+        "valor_total": 42745917684.7318,
+        "quantidade_total": 21242256806.0,
+        "instituicoes": 114,
+        "fornecedores": 1064,
+        "preco_ponderado": 2.012305852203894
+      },
+      {
+        "uf": "RS",
+        "registros": 23917,
+        "valor_total": 6208871088.9458,
+        "quantidade_total": 14150213255.0,
+        "instituicoes": 52,
+        "fornecedores": 639,
+        "preco_ponderado": 0.4387828633431998
+      },
+      {
+        "uf": "CE",
+        "registros": 5127,
+        "valor_total": 5396969234.8201,
+        "quantidade_total": 739166588.0,
+        "instituicoes": 11,
+        "fornecedores": 144,
+        "preco_ponderado": 7.301424770054812
+      },
+      {
+        "uf": "RJ",
+        "registros": 8178,
+        "valor_total": 5342023005.3317,
+        "quantidade_total": 504880581.0,
+        "instituicoes": 23,
+        "fornecedores": 482,
+        "preco_ponderado": 10.58076544507007
+      },
+      {
+        "uf": "SC",
+        "registros": 11503,
+        "valor_total": 1940847107.0139,
+        "quantidade_total": 6160672820.0,
+        "instituicoes": 15,
+        "fornecedores": 214,
+        "preco_ponderado": 0.31503817256990774
+      },
+      {
+        "uf": "AL",
+        "registros": 12364,
+        "valor_total": 1784509491.1457,
+        "quantidade_total": 3068271545.0,
+        "instituicoes": 34,
+        "fornecedores": 300,
+        "preco_ponderado": 0.5816008997162276
+      },
+      {
+        "uf": "BA",
+        "registros": 2640,
+        "valor_total": 1565931261.066,
+        "quantidade_total": 487985207.0,
+        "instituicoes": 10,
+        "fornecedores": 225,
+        "preco_ponderado": 3.208972810247504
+      },
+      {
+        "uf": "ES",
+        "registros": 10203,
+        "valor_total": 1366827763.8143,
+        "quantidade_total": 3662583076.0,
+        "instituicoes": 34,
+        "fornecedores": 456,
+        "preco_ponderado": 0.3731868289270444
+      },
+      {
+        "uf": "PB",
+        "registros": 23424,
+        "valor_total": 858388923.5353,
+        "quantidade_total": 251711254.0,
+        "instituicoes": 72,
+        "fornecedores": 270,
+        "preco_ponderado": 3.4102127334175534
+      }
+    ],
+    "municipio": [
+      {
+        "municipio_uf": "SAO PAULO / SP",
+        "registros": 5417,
+        "valor_total": 39107257165.8948,
+        "quantidade_total": 16984999770.0,
+        "instituicoes": 3,
+        "fornecedores": 291,
+        "preco_ponderado": 2.30245850429557
+      },
+      {
+        "municipio_uf": "CURITIBA / PR",
+        "registros": 6055,
+        "valor_total": 28036644859.5501,
+        "quantidade_total": 7464167475.0,
+        "instituicoes": 9,
+        "fornecedores": 336,
+        "preco_ponderado": 3.7561650315931714
+      },
+      {
+        "municipio_uf": "FAZENDA RIO GRANDE / PR",
+        "registros": 1195,
+        "valor_total": 13466421078.4356,
+        "quantidade_total": 51964898.0,
+        "instituicoes": 1,
+        "fornecedores": 153,
+        "preco_ponderado": 259.1445686747158
+      },
+      {
+        "municipio_uf": "FORTALEZA / CE",
+        "registros": 210,
+        "valor_total": 5349159929.5988,
+        "quantidade_total": 726451176.0,
+        "instituicoes": 2,
+        "fornecedores": 85,
+        "preco_ponderado": 7.363412857354642
+      },
+      {
+        "municipio_uf": "RIO DE JANEIRO / RJ",
+        "registros": 1075,
+        "valor_total": 5078689924.3246,
+        "quantidade_total": 223938381.0,
+        "instituicoes": 2,
+        "fornecedores": 156,
+        "preco_ponderado": 22.67896151452752
+      },
+      {
+        "municipio_uf": "PORTO ALEGRE / RS",
+        "registros": 2123,
+        "valor_total": 4303699228.9457,
+        "quantidade_total": 9765715866.0,
+        "instituicoes": 3,
+        "fornecedores": 200,
+        "preco_ponderado": 0.4406947005215787
+      },
+      {
+        "municipio_uf": "FLORIANOPOLIS / SC",
+        "registros": 6702,
+        "valor_total": 1802862321.6307,
+        "quantidade_total": 5368369644.0,
+        "instituicoes": 4,
+        "fornecedores": 123,
+        "preco_ponderado": 0.33583051115820295
+      },
+      {
+        "municipio_uf": "PENEDO / AL",
+        "registros": 2682,
+        "valor_total": 1702674891.511,
+        "quantidade_total": 2839653347.0,
+        "instituicoes": 1,
+        "fornecedores": 155,
+        "preco_ponderado": 0.5996066010345311
+      },
+      {
+        "municipio_uf": "SALVADOR / BA",
+        "registros": 1258,
+        "valor_total": 1509316037.61,
+        "quantidade_total": 408837660.0,
+        "instituicoes": 2,
+        "fornecedores": 136,
+        "preco_ponderado": 3.691724577452087
+      },
+      {
+        "municipio_uf": "BARUERI / SP",
+        "registros": 1105,
+        "valor_total": 1121400309.396,
+        "quantidade_total": 424667950.0,
+        "instituicoes": 1,
+        "fornecedores": 110,
+        "preco_ponderado": 2.6406520892287726
+      }
+    ],
+    "instituicao": [
+      {
+        "instituicao_id": "46374500026231",
+        "instituicao": "SECRETARIA DE ESTADO DA SAUDE",
+        "registros": 5262,
+        "valor_total": 38948866782.1181,
+        "quantidade_total": 16438970588.0,
+        "instituicoes": 1,
+        "fornecedores": 276,
+        "preco_ponderado": 2.369300837520186
+      },
+      {
+        "instituicao_id": "76416866000140",
+        "instituicao": "SECRETARIA DE ESTADO DA SAUDE",
+        "registros": 1851,
+        "valor_total": 25270931375.9874,
+        "quantidade_total": 777445881.0,
+        "instituicoes": 1,
+        "fornecedores": 172,
+        "preco_ponderado": 32.50506819006145
+      },
+      {
+        "instituicao_id": "95422986000102",
+        "instituicao": "MUNICIPIO DE FAZENDA RIO GRANDE",
+        "registros": 1195,
+        "valor_total": 13466421078.4356,
+        "quantidade_total": 51964898.0,
+        "instituicoes": 1,
+        "fornecedores": 153,
+        "preco_ponderado": 259.1445686747158
+      },
+      {
+        "instituicao_id": "07954571000104",
+        "instituicao": "SECRETARIA DA SAUDE DO ESTADO DO CEARA",
+        "registros": 207,
+        "valor_total": 5347707049.44,
+        "quantidade_total": 726450658.0,
+        "instituicoes": 1,
+        "fornecedores": 85,
+        "preco_ponderado": 7.361418137004426
+      },
+      {
+        "instituicao_id": "42498717000155",
+        "instituicao": "SECRETARIA DE ESTADO DE SAUDE - SES",
+        "registros": 1074,
+        "valor_total": 5078575224.3246,
+        "quantidade_total": 223928381.0,
+        "instituicoes": 1,
+        "fornecedores": 156,
+        "preco_ponderado": 22.679462074638053
+      },
+      {
+        "instituicao_id": "13693153000103",
+        "instituicao": "CONSORCIO PUBLICO DA ASSOCIACAO DOS MUNICIPIOS DA REGIAO METROPOLITANA DE PORTO ALEGRE - CP GRANPAL",
+        "registros": 490,
+        "valor_total": 3090880354.8249,
+        "quantidade_total": 762100307.0,
+        "instituicoes": 1,
+        "fornecedores": 65,
+        "preco_ponderado": 4.055739548238891
+      },
+      {
+        "instituicao_id": "12075748000132",
+        "instituicao": "CONSORCIO INTERFEDERATIVO SANTA CATARINA - CINCATARINA",
+        "registros": 6220,
+        "valor_total": 1751941490.1709,
+        "quantidade_total": 5103296081.0,
+        "instituicoes": 1,
+        "fornecedores": 109,
+        "preco_ponderado": 0.34329607029729775
+      },
+      {
+        "instituicao_id": "18538208000124",
+        "instituicao": "CONSORCIO INTERMUNICIPAL DO SUL DO ESTADO DE ALAGOAS - CONISUL",
+        "registros": 2682,
+        "valor_total": 1702674891.511,
+        "quantidade_total": 2839653347.0,
+        "instituicoes": 1,
+        "fornecedores": 155,
+        "preco_ponderado": 0.5996066010345311
+      },
+      {
+        "instituicao_id": "08597121000174",
+        "instituicao": "FUNDO ESTADUAL DE SAUDE DO PARANA - FUNSAUDE",
+        "registros": 1705,
+        "valor_total": 1699810925.254,
+        "quantidade_total": 430130656.0,
+        "instituicoes": 1,
+        "fornecedores": 155,
+        "preco_ponderado": 3.951847889804906
+      },
+      {
+        "instituicao_id": "05816630000152",
+        "instituicao": "FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA",
+        "registros": 1253,
+        "valor_total": 1507715486.65,
+        "quantidade_total": 408836243.0,
+        "instituicoes": 1,
+        "fornecedores": 136,
+        "preco_ponderado": 3.687822477739578
+      }
+    ],
+    "produto": [
+      {
+        "codigo_catmat": "272815",
+        "descricao_produto": "PENICILAMINA, DOSAGEM:250 MG",
+        "unidade_apresentacao": "CÁPSULA",
+        "registros": 18,
+        "valor_total": 22863108461.824,
+        "quantidade_total": 1798470.0,
+        "instituicoes": 8,
+        "fornecedores": 5,
+        "preco_ponderado": 12712.532575925092
+      },
+      {
+        "codigo_catmat": "305725",
+        "descricao_produto": "OCTREOTIDA, DOSAGEM:0,1 MG/ML, FORMA FARMACÊUTICA:SOLUÇÃO INJETÁVEL",
+        "unidade_apresentacao": "AMPOLA 1,00 ML",
+        "registros": 30,
+        "valor_total": 14601913459.803,
+        "quantidade_total": 271097.0,
+        "instituicoes": 15,
+        "fornecedores": 18,
+        "preco_ponderado": 53862.32034955385
+      },
+      {
+        "codigo_catmat": "271089",
+        "descricao_produto": "AMOXICILINA, CONCENTRAÇÃO:500MG",
+        "unidade_apresentacao": "CÁPSULA",
+        "registros": 831,
+        "valor_total": 13417956117.4058,
+        "quantidade_total": 344317846.0,
+        "instituicoes": 401,
+        "fornecedores": 262,
+        "preco_ponderado": 38.969679536755116
+      },
+      {
+        "codigo_catmat": "356051",
+        "descricao_produto": "ÁCIDO ZOLEDRÔNICO, CONCENTRAÇÃO:50 MCG/ML, FORMA FARMACEUTICA:SOLUÇÃO INJETÁVEL",
+        "unidade_apresentacao": "BOLSA 100,00 ML",
+        "registros": 12,
+        "valor_total": 3722639085.47,
+        "quantidade_total": 98250.0,
+        "instituicoes": 7,
+        "fornecedores": 9,
+        "preco_ponderado": 37889.45634066158
+      },
+      {
+        "codigo_catmat": "271157",
+        "descricao_produto": "INSULINA, ORIGEM:HUMANA, TIPO:NPH, DOSAGEM:100U/ML, APLICAÇÃO:INJETÁVEL",
+        "unidade_apresentacao": "FRASCO 10,00 ML",
+        "registros": 147,
+        "valor_total": 2909587444.0935,
+        "quantidade_total": 912031.0,
+        "instituicoes": 91,
+        "fornecedores": 87,
+        "preco_ponderado": 3190.2286699613283
+      },
+      {
+        "codigo_catmat": "606824",
+        "descricao_produto": "TEZEPELUMABE, CONCENTRAÇÃO:110 MG/ML, FORMA FARMACÊUTICA:SOLUÇÃO INJETÁVEL, CARACTERÍSTICAS ADICIONAIS:SERINGA PREENCHIDA",
+        "unidade_apresentacao": "SERINGA 1,91 ML",
+        "registros": 13,
+        "valor_total": 1673028109.39,
+        "quantidade_total": 1488.0,
+        "instituicoes": 7,
+        "fornecedores": 2,
+        "preco_ponderado": 1124346.8477083335
+      },
+      {
+        "codigo_catmat": "429724",
+        "descricao_produto": "CARFILZOMIB, CONCENTRAÇÃO:60 MG, FORMA FARMACEUTICA:PÓ LIÓFILO P/ INJETÁVEL",
+        "unidade_apresentacao": "FRASCO-AMPOLA",
+        "registros": 13,
+        "valor_total": 1380290896.1201,
+        "quantidade_total": 4645.0,
+        "instituicoes": 7,
+        "fornecedores": 4,
+        "preco_ponderado": 297156.27472983854
+      },
+      {
+        "codigo_catmat": "439252",
+        "descricao_produto": "NUSINERSENA, CONCENTRAÇÃO:2,4 MG/ML, FORMA FARMACÊUTICA:SOLUÇÃO INJETÁVEL",
+        "unidade_apresentacao": "FRASCO 5,00 ML",
+        "registros": 12,
+        "valor_total": 1271712474.886,
+        "quantidade_total": 4081.0,
+        "instituicoes": 6,
+        "fornecedores": 5,
+        "preco_ponderado": 311617.8571149228
+      },
+      {
+        "codigo_catmat": "432908",
+        "descricao_produto": "DAPAGLIFLOZINA, CONCENTRAÇÃO:10 MG",
+        "unidade_apresentacao": "COMPRIMIDO",
+        "registros": 247,
+        "valor_total": 1084870569.794,
+        "quantidade_total": 511209490.0,
+        "instituicoes": 121,
+        "fornecedores": 90,
+        "preco_ponderado": 2.1221643788224664
+      },
+      {
+        "codigo_catmat": "403131",
+        "descricao_produto": "BUDESONIDA, CONCENTRAÇÃO:50 MCG/DOSE, FORMA FARMACÊUTICA:SUSPENSÃO AQUOSA NASAL, CARACTERÍSTICA ADICIONAL:FRASCO COM VÁLVULA DOSIFICADORA",
+        "unidade_apresentacao": "FRASCO 200,00 DOSES",
+        "registros": 61,
+        "valor_total": 989271233.9684,
+        "quantidade_total": 104751870.0,
+        "instituicoes": 32,
+        "fornecedores": 22,
+        "preco_ponderado": 9.443948198427389
+      }
+    ],
+    "fornecedor": [
+      {
+        "fornecedor_id": "11697594000310",
+        "fornecedor": "AGILLE COMERCIO DE MEDICAMENTOS LTDA",
+        "registros": 26,
+        "valor_total": 22860561278.18,
+        "quantidade_total": 1808027.0,
+        "instituicoes": 9,
+        "fornecedores": 1,
+        "preco_ponderado": 12643.92693150047
+      },
+      {
+        "fornecedor_id": "05005873000100",
+        "fornecedor": "PORTAL LTDA",
+        "registros": 979,
+        "valor_total": 15064798403.6499,
+        "quantidade_total": 808765581.0,
+        "instituicoes": 51,
+        "fornecedores": 1,
+        "preco_ponderado": 18.6269034656779
+      },
+      {
+        "fornecedor_id": "42227547000174",
+        "fornecedor": "MED4 IMPORTADORA E DISTRIBUIDORA LTDA",
+        "registros": 78,
+        "valor_total": 13357079311.7684,
+        "quantidade_total": 9586531.0,
+        "instituicoes": 17,
+        "fornecedores": 1,
+        "preco_ponderado": 1393.3172814825718
+      },
+      {
+        "fornecedor_id": "27817504000155",
+        "fornecedor": "SP HOSPITALAR LTDA",
+        "registros": 198,
+        "valor_total": 3837039004.1549,
+        "quantidade_total": 214780155.0,
+        "instituicoes": 21,
+        "fornecedores": 1,
+        "preco_ponderado": 17.864960587978437
+      },
+      {
+        "fornecedor_id": "60318797000100",
+        "fornecedor": "ASTRAZENECA DO BRASIL LTDA.",
+        "registros": 213,
+        "valor_total": 3524279339.1232,
+        "quantidade_total": 460090643.0,
+        "instituicoes": 21,
+        "fornecedores": 1,
+        "preco_ponderado": 7.659967427599261
+      },
+      {
+        "fornecedor_id": "47647493000110",
+        "fornecedor": "G2 COMERCIO DE MEDICAMENTOS LTDA",
+        "registros": 25,
+        "valor_total": 2890725251.2,
+        "quantidade_total": 524450.0,
+        "instituicoes": 15,
+        "fornecedores": 1,
+        "preco_ponderado": 5511.917725617313
+      },
+      {
+        "fornecedor_id": "56994502002779",
+        "fornecedor": "NOVARTIS BIOCIENCIAS SA",
+        "registros": 248,
+        "valor_total": 2124579300.7681,
+        "quantidade_total": 97448960.0,
+        "instituicoes": 14,
+        "fornecedores": 1,
+        "preco_ponderado": 21.801969982728394
+      },
+      {
+        "fornecedor_id": "51780468000268",
+        "fornecedor": "JANSSEN-CILAG FARMACEUTICA LTDA",
+        "registros": 274,
+        "valor_total": 1986049216.8836,
+        "quantidade_total": 9384504.0,
+        "instituicoes": 15,
+        "fornecedores": 1,
+        "preco_ponderado": 211.63070705533292
+      },
+      {
+        "fornecedor_id": "10586940000168",
+        "fornecedor": "ONCOVIT DISTRIBUIDORA DE MEDICAMENTOS LTDA",
+        "registros": 532,
+        "valor_total": 1719996727.4492,
+        "quantidade_total": 96917665.0,
+        "instituicoes": 37,
+        "fornecedores": 1,
+        "preco_ponderado": 17.746988925591634
+      },
+      {
+        "fornecedor_id": "04307650001298",
+        "fornecedor": "ONCO PROD DISTRIBUIDORA DE PRODUTOS HOSPITALARES E ONCOLOGICOS LTDA.",
+        "registros": 409,
+        "valor_total": 1087297832.5686,
+        "quantidade_total": 95020954.0,
+        "instituicoes": 52,
+        "fornecedores": 1,
+        "preco_ponderado": 11.44271644092944
+      }
+    ],
+    "fabricante": [
+      {
+        "fabricante_id": "17875154000120",
+        "fabricante": "MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA.",
+        "registros": 2086,
+        "valor_total": 22920162078.2901,
+        "quantidade_total": 804984480.0,
+        "instituicoes": 415,
+        "fornecedores": 350,
+        "preco_ponderado": 28.472799970367255
+      },
+      {
+        "fabricante_id": "05035244000123",
+        "fabricante": "SUN FARMACEUTICA DO BRASIL LTDA",
+        "registros": 708,
+        "valor_total": 15283016625.675,
+        "quantidade_total": 289628517.0,
+        "instituicoes": 156,
+        "fornecedores": 115,
+        "preco_ponderado": 52.767651417677904
+      },
+      {
+        "fabricante_id": "05399786000185",
+        "fabricante": "UNICHEM FARMACEUTICA DO BRASIL LTDA.",
+        "registros": 699,
+        "valor_total": 13503204299.9081,
+        "quantidade_total": 147592503.0,
+        "instituicoes": 249,
+        "fornecedores": 144,
+        "preco_ponderado": 91.48977099404635
+      },
+      {
+        "fabricante_id": "61190096000192",
+        "fabricante": "EUROFARMA LABORATORIOS S.A.",
+        "registros": 6843,
+        "valor_total": 5776156441.5362,
+        "quantidade_total": 732102084.0,
+        "instituicoes": 588,
+        "fornecedores": 633,
+        "preco_ponderado": 7.8898237933935444
+      },
+      {
+        "fabricante_id": "56994502000130",
+        "fabricante": "NOVARTIS BIOCIENCIAS SA",
+        "registros": 3665,
+        "valor_total": 4026310673.3332,
+        "quantidade_total": 234495424.0,
+        "instituicoes": 389,
+        "fornecedores": 410,
+        "preco_ponderado": 17.170103384760292
+      },
+      {
+        "fabricante_id": "60318797000100",
+        "fabricante": "ASTRAZENECA DO BRASIL LTDA.",
+        "registros": 1623,
+        "valor_total": 3659820167.6664,
+        "quantidade_total": 593284331.0,
+        "instituicoes": 280,
+        "fornecedores": 263,
+        "preco_ponderado": 6.168745703257752
+      },
+      {
+        "fabricante_id": "43940618000144",
+        "fabricante": "ELI LILLY DO BRASIL LTDA",
+        "registros": 627,
+        "valor_total": 3299587058.1616,
+        "quantidade_total": 4927031.0,
+        "instituicoes": 122,
+        "fornecedores": 110,
+        "preco_ponderado": 669.6907444182106
+      },
+      {
+        "fabricante_id": "51780468000187",
+        "fabricante": "JANSSEN-CILAG FARMACEUTICA LTDA",
+        "registros": 821,
+        "valor_total": 2305051666.8864,
+        "quantidade_total": 9505848.0,
+        "instituicoes": 143,
+        "fornecedores": 151,
+        "preco_ponderado": 242.48774721480927
+      },
+      {
+        "fabricante_id": "18774815000193",
+        "fabricante": "AMGEN BIOTECNOLOGIA DO BRASIL LTDA.",
+        "registros": 229,
+        "valor_total": 1725125825.7026,
+        "quantidade_total": 743888.0,
+        "instituicoes": 58,
+        "fornecedores": 40,
+        "preco_ponderado": 2319.0666144669626
+      },
+      {
+        "fabricante_id": "10588595001092",
+        "fabricante": "SANOFI MEDLEY FARMACEUTICA LTDA",
+        "registros": 3052,
+        "valor_total": 1587982628.4987,
+        "quantidade_total": 366308191.0,
+        "instituicoes": 407,
+        "fornecedores": 457,
+        "preco_ponderado": 4.335099971866859
+      }
+    ],
+    "modalidade": [
+      {
+        "modalidade_compra": "PREGÃO",
+        "registros": 332545,
+        "valor_total": 106186732019.8733,
+        "quantidade_total": 58049185307.0,
+        "instituicoes": 822,
+        "fornecedores": 3248,
+        "preco_ponderado": 1.8292544754640774
+      },
+      {
+        "modalidade_compra": "REGISTRO DE PREÇOS",
+        "registros": 18165,
+        "valor_total": 6807235365.8701,
+        "quantidade_total": 4980916342.0,
+        "instituicoes": 79,
+        "fornecedores": 805,
+        "preco_ponderado": 1.366663260025117
+      },
+      {
+        "modalidade_compra": "DISPENSA DE LICITAÇÃO",
+        "registros": 13618,
+        "valor_total": 1916975019.7498,
+        "quantidade_total": 1731304508.0,
+        "instituicoes": 215,
+        "fornecedores": 1130,
+        "preco_ponderado": 1.1072431284570998
+      },
+      {
+        "modalidade_compra": "INEXIGIBILIDADE DE LICITAÇÃO",
+        "registros": 417,
+        "valor_total": 188530676.2682,
+        "quantidade_total": 13667584.0,
+        "instituicoes": 36,
+        "fornecedores": 93,
+        "preco_ponderado": 13.794001651513538
+      },
+      {
+        "modalidade_compra": "TOMADA DE PREÇOS",
+        "registros": 1864,
+        "valor_total": 10592943.179,
+        "quantidade_total": 14311462.0,
+        "instituicoes": 27,
+        "fornecedores": 127,
+        "preco_ponderado": 0.7401719809618332
+      },
+      {
+        "modalidade_compra": "CONCORRÊNCIA",
+        "registros": 710,
+        "valor_total": 6007919.4242,
+        "quantidade_total": 7037571.0,
+        "instituicoes": 12,
+        "fornecedores": 37,
+        "preco_ponderado": 0.8536921935423458
+      },
+      {
+        "modalidade_compra": "CONCURSO",
+        "registros": 194,
+        "valor_total": 2637445.6,
+        "quantidade_total": 5277970.0,
+        "instituicoes": 1,
+        "fornecedores": 9,
+        "preco_ponderado": 0.4997083348332787
+      },
+      {
+        "modalidade_compra": "LEILÃO",
+        "registros": 54,
+        "valor_total": 2002841.4845,
+        "quantidade_total": 9191181.0,
+        "instituicoes": 7,
+        "fornecedores": 14,
+        "preco_ponderado": 0.21790904612802206
+      },
+      {
+        "modalidade_compra": "CONVITE",
+        "registros": 70,
+        "valor_total": 749631.34,
+        "quantidade_total": 104841.0,
+        "instituicoes": 7,
+        "fornecedores": 29,
+        "preco_ponderado": 7.150173500825058
+      },
+      {
+        "modalidade_compra": "DIÁLOGO COMPETITIVO",
+        "registros": 1,
+        "valor_total": 15228.0,
+        "quantidade_total": 10800.0,
+        "instituicoes": 1,
+        "fornecedores": 1,
+        "preco_ponderado": 1.41
+      }
+    ],
+    "esfera": [
+      {
+        "esfera": "ESTADUAL",
+        "registros": 27835,
+        "valor_total": 86178731455.3424,
+        "quantidade_total": 39794238747.0,
+        "instituicoes": 37,
+        "fornecedores": 1086,
+        "preco_ponderado": 2.1656082430233505
+      },
+      {
+        "esfera": "MUNICIPAL",
+        "registros": 339638,
+        "valor_total": 28937419617.4307,
+        "quantidade_total": 25015240648.0,
+        "instituicoes": 814,
+        "fornecedores": 3395,
+        "preco_ponderado": 1.156791574569333
+      },
+      {
+        "esfera": "FEDERAL",
+        "registros": 122,
+        "valor_total": 5250886.506,
+        "quantidade_total": 1515244.0,
+        "instituicoes": 4,
+        "fornecedores": 46,
+        "preco_ponderado": 3.465373567557436
+      },
+      {
+        "esfera": "PRIVADA",
+        "registros": 43,
+        "valor_total": 77131.51,
+        "quantidade_total": 12927.0,
+        "instituicoes": 1,
+        "fornecedores": 13,
+        "preco_ponderado": 5.9666983832289
+      }
+    ]
+  },
+  "annual": [
+    {
+      "ano_compra": 2020,
+      "registros": 84919,
+      "valor_total": 5047158170.438,
+      "quantidade": 8769651552.0,
+      "instituicoes": 483,
+      "primeira_compra": "2020-01-01 00:00:00",
+      "ultima_compra": "2020-12-31 00:00:00",
+      "ultima_insercao": "2026-07-28 00:00:00",
+      "maior_registro": 621600000.0,
+      "maior_registro_percentual": 12.315841489589312,
+      "variacao_nominal_percentual": NaN
+    },
+    {
+      "ano_compra": 2021,
+      "registros": 85012,
+      "valor_total": 7423162974.792,
+      "quantidade": 10721528292.0,
+      "instituicoes": 479,
+      "primeira_compra": "2021-01-01 00:00:00",
+      "ultima_compra": "2021-12-31 00:00:00",
+      "ultima_insercao": "2026-08-28 00:00:00",
+      "maior_registro": 484512000.0,
+      "maior_registro_percentual": 6.5270289988962045,
+      "variacao_nominal_percentual": 47.07609161667716
+    },
+    {
+      "ano_compra": 2022,
+      "registros": 89555,
+      "valor_total": 16872583339.2273,
+      "quantidade": 15213456252.0,
+      "instituicoes": 421,
+      "primeira_compra": "2022-01-01 00:00:00",
+      "ultima_compra": "2022-12-30 00:00:00",
+      "ultima_insercao": "2026-09-04 00:00:00",
+      "maior_registro": 676524931.44,
+      "maior_registro_percentual": 4.0096108452292425,
+      "variacao_nominal_percentual": 127.29641524137598
+    },
+    {
+      "ano_compra": 2023,
+      "registros": 33831,
+      "valor_total": 4957545775.2617,
+      "quantidade": 10274886691.0,
+      "instituicoes": 280,
+      "primeira_compra": "2023-01-01 00:00:00",
+      "ultima_compra": "2023-12-30 00:00:00",
+      "ultima_insercao": "2026-09-02 00:00:00",
+      "maior_registro": 1364418360.0,
+      "maior_registro_percentual": 27.52205268196389,
+      "variacao_nominal_percentual": -70.6177431422974
+    },
+    {
+      "ano_compra": 2024,
+      "registros": 28942,
+      "valor_total": 9089223625.7984,
+      "quantidade": 5725383486.0,
+      "instituicoes": 241,
+      "primeira_compra": "2024-01-01 00:00:00",
+      "ultima_compra": "2024-12-30 00:00:00",
+      "ultima_insercao": "2026-09-11 00:00:00",
+      "maior_registro": 1662919160.0,
+      "maior_registro_percentual": 18.295502767475682,
+      "variacao_nominal_percentual": 83.34119416816878
+    },
+    {
+      "ano_compra": 2025,
+      "registros": 34233,
+      "valor_total": 50904775385.3438,
+      "quantidade": 8846881823.0,
+      "instituicoes": 215,
+      "primeira_compra": "2025-01-01 00:00:00",
+      "ultima_compra": "2025-12-30 00:00:00",
+      "ultima_insercao": "2026-09-11 00:00:00",
+      "maior_registro": 22816000000.0,
+      "maior_registro_percentual": 44.8209422933021,
+      "variacao_nominal_percentual": 460.05636433961445
+    },
+    {
+      "ano_compra": 2026,
+      "registros": 11146,
+      "valor_total": 20827029819.9279,
+      "quantidade": 5259219470.0,
+      "instituicoes": 103,
+      "primeira_compra": "2026-01-02 00:00:00",
+      "ultima_compra": "2026-08-27 00:00:00",
+      "ultima_insercao": "2026-09-12 00:00:00",
+      "maior_registro": 13351582656.0,
+      "maior_registro_percentual": 64.10699351486416,
+      "variacao_nominal_percentual": -59.08629463096641
+    }
+  ],
+  "top_quantity": [
+    {
+      "codigo_catmat": "404992",
+      "descricao_produto": "DIETA ENTERAL, ASPECTO FÍSICO:LÍQUIDO, USO:ENTERAL OU ORAL, CARACTERÍSTICAS:HIPERCALÓRICA,NORMOPROTEICA, FONTE DE PROTEÍNA:CASEINATO E/OU PTN SOJA E/OU SORO LEITE, FONTE DE CARBOIDRATO:MALTODEXTRINA, FONTE DE LIPÍDIOS:ÓLEOS VEG.E/OU TCM E/OU LEC.SOJA, COMPONENTES ADICIONAIS:AA'S,VIT.,MINERAIS, CARACTERÍSTICAS ADICIONAIS:ISENTO GLÚTEN,LACT.,SACAROSE, SABOR:C/ OU S/ SABOR",
+      "unidade_apresentacao": "MILILITRO",
+      "quantidade": 4357306650.0,
+      "valor": 54596071.0
+    },
+    {
+      "codigo_catmat": "267512",
+      "descricao_produto": "AMITRIPTILINA CLORIDRATO, DOSAGEM:25 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 3217330905.0,
+      "valor": 135618374.3435
+    },
+    {
+      "codigo_catmat": "268856",
+      "descricao_produto": "LOSARTANA POTÁSSICA, DOSAGEM:50 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 2214267060.0,
+      "valor": 135912425.2931
+    },
+    {
+      "codigo_catmat": "267674",
+      "descricao_produto": "HIDROCLOROTIAZIDA, DOSAGEM:25 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 1843561372.0,
+      "valor": 47894917.6978
+    },
+    {
+      "codigo_catmat": "435227",
+      "descricao_produto": "DIETA ENTERAL, ASPECTO FÍSICO:LÍQUIDO, USO:ENTERAL OU ORAL, CARACTERÍSTICAS:HIPERCALÓRICA, NORMOPROTEICA E NORMOLIPÍDICA, FONTE DE PROTEÍNA:CASEINATO E PTN ISOLADA SOJA, FONTE DE CARBOIDRATO:MALTODEXTRINA E SACAROSE, FONTE DE LIPÍDIOS:ÓLEOS VEGETAIS, COMPONENTES ADICIONAIS:AA'S,VIT.,MINERAIS, CARACTERÍSTICAS ADICIONAIS:ISENTA LACTOSE E GLÚTEN, SABOR:C/SABOR",
+      "unidade_apresentacao": "MILILITRO",
+      "quantidade": 1438409000.0,
+      "valor": 35759588.0
+    },
+    {
+      "codigo_catmat": "267712",
+      "descricao_produto": "OMEPRAZOL, CONCENTRAÇÃO:20 MG",
+      "unidade_apresentacao": "CÁPSULA",
+      "quantidade": 1392818821.0,
+      "valor": 138232696.169
+    },
+    {
+      "codigo_catmat": "267691",
+      "descricao_produto": "METFORMINA CLORIDRATO, DOSAGEM:850 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 1350594620.0,
+      "valor": 117813095.4971
+    },
+    {
+      "codigo_catmat": "267502",
+      "descricao_produto": "ÁCIDO ACETILSALICÍLICO, DOSAGEM:100 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 1247525113.0,
+      "valor": 45947853.6917
+    },
+    {
+      "codigo_catmat": "272434",
+      "descricao_produto": "ANLODIPINO BESILATO, DOSAGEM:5 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 1243154026.0,
+      "valor": 34557187.1654
+    },
+    {
+      "codigo_catmat": "267203",
+      "descricao_produto": "DIPIRONA SÓDICA, DOSAGEM:500 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "quantidade": 1212937400.0,
+      "valor": 137033513.6506
+    }
+  ],
+  "price_comparisons": [
+    {
+      "codigo_catmat": "308882",
+      "descricao_produto": "SULFAMETOXAZOL, COMPOSIÇÃO:ASSOCIADO À TRIMETOPRIMA, CONCENTRAÇÃO:400MG + 80MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "73856593000166",
+      "generico": "S",
+      "registro_anvisa": "1256802090013",
+      "mes_compra": "2021-04",
+      "uf": "PB",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "03: >1.000–10.000",
+      "registros": 5,
+      "instituicoes": 5,
+      "fornecedores": 4,
+      "minimo": 0.002,
+      "p25": 0.11,
+      "mediana": 0.15,
+      "p75": 0.2,
+      "maximo": 0.27,
+      "razao_max_min": 135.0,
+      "ponderado": 0.13939520333680916,
+      "menor_quantidade": 2000.0,
+      "maior_quantidade": 10000.0,
+      "valor_total": 5347.2
+    },
+    {
+      "codigo_catmat": "267516",
+      "descricao_produto": "ATENOLOL, DOSAGEM:25 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "73856593000166",
+      "generico": "S",
+      "registro_anvisa": "1256801460011",
+      "mes_compra": "2021-04",
+      "uf": "PI",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "04: >10.000–100.000",
+      "registros": 5,
+      "instituicoes": 4,
+      "fornecedores": 5,
+      "minimo": 0.0012,
+      "p25": 0.03,
+      "mediana": 0.07,
+      "p75": 0.08,
+      "maximo": 0.16,
+      "razao_max_min": 133.33333333333334,
+      "ponderado": 0.06136969696969696,
+      "menor_quantidade": 12000.0,
+      "maior_quantidade": 43250.0,
+      "valor_total": 6581.9
+    },
+    {
+      "codigo_catmat": "267517",
+      "descricao_produto": "ATENOLOL, DOSAGEM:50 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "73856593000166",
+      "generico": "S",
+      "registro_anvisa": "1256801460054",
+      "mes_compra": "2021-04",
+      "uf": "PI",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "04: >10.000–100.000",
+      "registros": 5,
+      "instituicoes": 4,
+      "fornecedores": 5,
+      "minimo": 0.0016,
+      "p25": 0.05,
+      "mediana": 0.1,
+      "p75": 0.13,
+      "maximo": 0.16,
+      "razao_max_min": 100.0,
+      "ponderado": 0.08385185185185186,
+      "menor_quantidade": 15000.0,
+      "maior_quantidade": 65000.0,
+      "valor_total": 13584.0
+    },
+    {
+      "codigo_catmat": "268214",
+      "descricao_produto": "ATROPINA SULFATO, DOSAGEM:0,25 MG/ML, USO:SOLUÇÃO INJETÁVEL",
+      "unidade_apresentacao": "AMPOLA 1,00 ML",
+      "fabricante_id": "06628333000146",
+      "generico": "N",
+      "registro_anvisa": "1108500170026",
+      "mes_compra": "2023-03",
+      "uf": "PR",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "02: >100–1.000",
+      "registros": 5,
+      "instituicoes": 5,
+      "fornecedores": 5,
+      "minimo": 0.7985,
+      "p25": 0.97,
+      "mediana": 1.3041,
+      "p75": 1.88,
+      "maximo": 2.5,
+      "razao_max_min": 3.1308703819661865,
+      "ponderado": 1.582290909090909,
+      "menor_quantidade": 200.0,
+      "maior_quantidade": 300.0,
+      "valor_total": 1740.52
+    },
+    {
+      "codigo_catmat": "273710",
+      "descricao_produto": "NIMESULIDA, DOSAGEM:100 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "02814497000107",
+      "generico": "S",
+      "registro_anvisa": "1438101770039",
+      "mes_compra": "2020-11",
+      "uf": "PR",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "04: >10.000–100.000",
+      "registros": 5,
+      "instituicoes": 5,
+      "fornecedores": 4,
+      "minimo": 0.05,
+      "p25": 0.056,
+      "mediana": 0.06,
+      "p75": 0.0649,
+      "maximo": 0.15,
+      "razao_max_min": 2.9999999999999996,
+      "ponderado": 0.06532182182182182,
+      "menor_quantidade": 20000.0,
+      "maior_quantidade": 64800.0,
+      "valor_total": 13051.3
+    },
+    {
+      "codigo_catmat": "271746",
+      "descricao_produto": "BACLOFENO, CONCENTRAÇÃO:10 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "17159229000176",
+      "generico": "S",
+      "registro_anvisa": "1037006130016",
+      "mes_compra": "2020-08",
+      "uf": "SP",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "03: >1.000–10.000",
+      "registros": 6,
+      "instituicoes": 6,
+      "fornecedores": 4,
+      "minimo": 0.107,
+      "p25": 0.1217,
+      "mediana": 0.1909,
+      "p75": 0.2302,
+      "maximo": 0.29,
+      "razao_max_min": 2.710280373831776,
+      "ponderado": 0.15738014042126378,
+      "menor_quantidade": 2250.0,
+      "maior_quantidade": 10000.0,
+      "valor_total": 4707.24
+    },
+    {
+      "codigo_catmat": "271746",
+      "descricao_produto": "BACLOFENO, CONCENTRAÇÃO:10 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "17159229000176",
+      "generico": "S",
+      "registro_anvisa": "1037006130016",
+      "mes_compra": "2021-10",
+      "uf": "SP",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "03: >1.000–10.000",
+      "registros": 5,
+      "instituicoes": 4,
+      "fornecedores": 5,
+      "minimo": 0.14,
+      "p25": 0.1799,
+      "mediana": 0.2,
+      "p75": 0.25,
+      "maximo": 0.37,
+      "razao_max_min": 2.642857142857143,
+      "ponderado": 0.1901998831775701,
+      "menor_quantidade": 1080.0,
+      "maior_quantidade": 6000.0,
+      "valor_total": 3256.222
+    },
+    {
+      "codigo_catmat": "267671",
+      "descricao_produto": "GLIBENCLAMIDA, DOSAGEM:5 MG",
+      "unidade_apresentacao": "COMPRIMIDO",
+      "fabricante_id": "03485572000104",
+      "generico": "S",
+      "registro_anvisa": "1542302120036",
+      "mes_compra": "2021-04",
+      "uf": "PI",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "04: >10.000–100.000",
+      "registros": 6,
+      "instituicoes": 6,
+      "fornecedores": 5,
+      "minimo": 0.04,
+      "p25": 0.055,
+      "mediana": 0.075,
+      "p75": 0.08,
+      "maximo": 0.09,
+      "razao_max_min": 2.25,
+      "ponderado": 0.06502127659574468,
+      "menor_quantidade": 20000.0,
+      "maior_quantidade": 90000.0,
+      "valor_total": 19100.0
+    },
+    {
+      "codigo_catmat": "267666",
+      "descricao_produto": "FUROSEMIDA, COMPOSIÇÃO:10 MG/ML, APRESENTAÇÃO:SOLUÇÃO INJETÁVEL",
+      "unidade_apresentacao": "AMPOLA 2,00 ML",
+      "fabricante_id": "17159229000176",
+      "generico": "S",
+      "registro_anvisa": "1037002770037",
+      "mes_compra": "2021-03",
+      "uf": "PR",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "02: >100–1.000",
+      "registros": 5,
+      "instituicoes": 5,
+      "fornecedores": 3,
+      "minimo": 0.49,
+      "p25": 0.49,
+      "mediana": 0.5,
+      "p75": 0.53,
+      "maximo": 0.9858,
+      "razao_max_min": 2.0118367346938775,
+      "ponderado": 0.5546181818181819,
+      "menor_quantidade": 200.0,
+      "maior_quantidade": 1000.0,
+      "valor_total": 1220.16
+    },
+    {
+      "codigo_catmat": "272198",
+      "descricao_produto": "ETILEFRINA CLORIDRATO, COMPOSIÇÃO:10MG/ML, APRESENTAÇÃO:INJETÁVEL",
+      "unidade_apresentacao": "AMPOLA 1,00 ML",
+      "fabricante_id": "60665981000118",
+      "generico": "N",
+      "registro_anvisa": "1049712200019",
+      "mes_compra": "2020-08",
+      "uf": "PR",
+      "modalidade_compra": "PREGÃO",
+      "faixa_quantidade": "02: >100–1.000",
+      "registros": 5,
+      "instituicoes": 5,
+      "fornecedores": 4,
+      "minimo": 1.11,
+      "p25": 1.15,
+      "mediana": 1.3,
+      "p75": 1.68,
+      "maximo": 2.21,
+      "razao_max_min": 1.9909909909909909,
+      "ponderado": 1.515,
+      "menor_quantidade": 150.0,
+      "maior_quantidade": 1000.0,
+      "valor_total": 3333.0
+    }
+  ],
+  "comparison_groups": 41,
+  "name_variants": {
+    "instituicao": 5,
+    "fornecedor": 0,
+    "fabricante": 0
+  },
+  "source_scope": "Registros publicados pelo BPS; não representam automaticamente toda a despesa pública em saúde."
+}
+
