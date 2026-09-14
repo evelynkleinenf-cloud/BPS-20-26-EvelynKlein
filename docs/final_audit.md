@@ -10,7 +10,7 @@ Auditoria executada em 14/09/2026, comparando o enunciado com os arquivos versio
 | 4. Validação e qualidade | **ATENDIDO** | `validation.json` (54 checks PASS), `data_quality_report.md` | Nenhuma |
 | 5. KPIs e fórmulas | **ATENDIDO** | `dashboard/metrics.md`, `src/verify_bi.py`, `bi_validation.json` | Nenhuma |
 | 6. Dashboard com 6 KPIs e 5 visuais | **ATENDIDO** | Relatório Looker com 6 cartões, linha mensal, três rankings em barras, pizza e tabela; `dashboard_ui_inventory.json`; `dashboard/documentation.md` | Adicionar capturas versionadas é melhoria de evidência |
-| 7. Filtros interativos testados | **PARCIAL** | Seis controles configurados e visíveis (ano, UF, modalidade, produto, fornecedor, fabricante); `filter_test_cases.json` (11 cenários reconciliados) | Executar manualmente cada seleção e registrar em `dashboard_manual_tests.csv` |
+| 7. Filtros interativos testados | **ATENDIDO** | Seis controles configurados e visíveis (ano, UF, modalidade, produto, fornecedor, fabricante); seis seleções manuais confirmadas; `dashboard_manual_tests.csv`; `filter_test_cases.json` (11 cenários reconciliados) | Município e instituição permanecem dimensões nos rankings/tabela, sem controles dedicados |
 | 8. Interpretação analítica | **ATENDIDO** | `dashboard_analysis.md`, `analysis/*.csv` | Nenhuma |
 | 9. Recomendações e limitações | **ATENDIDO** | `dashboard_analysis.md`, README | Nenhuma |
 | 10. README e reprodução | **ATENDIDO** | `README.md`, `requirements.txt`, workflow CI | Nenhuma |

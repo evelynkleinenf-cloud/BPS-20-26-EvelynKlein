@@ -3,6 +3,12 @@
   "filter_cases": 11,
   "row_measure_mismatches": 0,
   "sha256": "b4ac1c101c35005d41bb07a0d66fdf0d0bacc012f9cb9c6b06578fc4fe4d2c0f",
-  "actual_ui_verified": false
+  "actual_ui_verified": true,
+  "ui_manual_tests": {
+    "pass": 6,
+    "not_applicable": 2,
+    "evidence_file": "dashboard_manual_tests.csv",
+    "tested_at": "2026-09-14T20:31:00-03:00"
+  }
 }
 

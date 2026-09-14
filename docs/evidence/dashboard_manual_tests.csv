@@ -1,10 +1,10 @@
 filter,scenario,status,evidence
-ano_compra,Selecionar 2025,PENDENTE,Executar no Looker
-uf,Selecionar PR,PENDENTE,Executar no Looker
-municipio,Selecionar Curitiba,PENDENTE,Executar no Looker
-instituicao,Selecionar Secretaria,PENDENTE,Executar no Looker
-fornecedor,Selecionar fornecedor,PENDENTE,Executar no Looker
-fabricante,Selecionar fabricante,PENDENTE,Executar no Looker
-produto,Selecionar produto,PENDENTE,Executar no Looker
-modalidade_compra,Selecionar Pregao,PENDENTE,Executar no Looker
+ano_compra,Selecionar 2022,PASS,"Filtro aplicado; ano_compra: 2022; registros exibidos: 89.555; preço total: R$ 16.872.583.339,23"
+uf,Selecionar PR,PASS,"Filtro aplicado em conjunto com ano 2022; uf: PR; registros exibidos: 19.567; quantidade: 2.785.644.025"
+modalidade,Selecionar PREGÃO,PASS,"Filtro aplicado; modalidade: PREGÃO; registros exibidos: 332.545; preço total: R$ 106.186.700.000 (aprox.)"
+produto,Selecionar 268236,PASS,"Filtro aplicado; produto: CATMAT 268236; registros exibidos na tabela: 333; preço total: R$ 318.137.754,01"
+fornecedor,Selecionar AGILLE COMERCIO DE MEDIC [F1190],PASS,"Filtro aplicado; fornecedor selecionado visível no chip; atualização dos visuais confirmada"
+fabricante,Selecionar MEDQUIMICA INDUSTRIA FAR [M1197],PASS,"Filtro aplicado; fabricante selecionado visível no chip; registros exibidos: 26"
+municipio,Não configurado,NA,"Não há controle de município na versão publicada; município aparece no ranking e na tabela"
+instituicao,Não configurado,NA,"Não há controle de instituição na versão publicada; instituição aparece no ranking e na tabela"
 
