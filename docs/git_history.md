@@ -10,7 +10,7 @@ O repositório foi criado em uma pasta própria para não misturar o projeto com
 - `feat: adiciona validacoes da base consolidada`
 - `feat: cria KPIs obrigatorios`
 
-Branches locais previstas: `main`, `develop`, `feature/download-bps`, `feature/data-cleaning`, `feature/data-consolidation`, `feature/kpis`, `feature/dashboard`, `feature/readme` e `feature/video`. O fluxo é feature → develop → main, com merges `--no-ff` para manter rastreabilidade.
+Branches locais e remotas: `main`, `develop`, `feature/download-bps`, `feature/data-cleaning`, `feature/data-consolidation`, `feature/kpis`, `feature/dashboard`, `feature/readme` e `feature/video`. O fluxo é feature → develop → main, com merges `--no-ff` para manter rastreabilidade.
 
-O remoto deve ser criado como `evelynkleinenf-cloud/BPS-20-26-EvelynKlein`; após autenticar nessa conta, executar os comandos de publicação descritos no README.
+O remoto público foi criado em `https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein` e recebeu o commit de entrega `05ac0066529539057e353ec3f8e8676d35de1e73`. A comprovação das refs publicadas está em `docs/evidence/remote_publication.json`. Os arquivos brutos e as saídas grandes continuam fora do Git e são reproduzidos pelo pipeline.
 

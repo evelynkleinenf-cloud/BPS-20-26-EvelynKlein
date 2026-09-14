@@ -1,0 +1,25 @@
+{
+  "repository": "https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein",
+  "visibility": "public",
+  "default_branch": "main",
+  "main_commit": "05ac0066529539057e353ec3f8e8676d35de1e73",
+  "published_files": 69,
+  "branches": [
+    "main",
+    "develop",
+    "feature/download-bps",
+    "feature/data-cleaning",
+    "feature/data-consolidation",
+    "feature/kpis",
+    "feature/dashboard",
+    "feature/readme",
+    "feature/video"
+  ],
+  "published_via": "GitHub connector (API)",
+  "published_at": "2026-09-14",
+  "notes": [
+    "Arquivos brutos e saídas CSV grandes permanecem ignorados pelo Git e são reproduzidos pelo pipeline.",
+    "As branches remotas foram criadas a partir do commit de entrega; o histórico detalhado de desenvolvimento está preservado no histórico local e documentado em docs/git_history.md."
+  ]
+}
+

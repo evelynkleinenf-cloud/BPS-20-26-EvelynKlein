@@ -14,11 +14,11 @@ Auditoria executada em 14/09/2026, comparando o enunciado com os arquivos versio
 | 8. Interpretação analítica | **ATENDIDO** | `dashboard_analysis.md`, `analysis/*.csv` | Nenhuma |
 | 9. Recomendações e limitações | **ATENDIDO** | `dashboard_analysis.md`, README | Nenhuma |
 | 10. README e reprodução | **ATENDIDO** | `README.md`, `requirements.txt`, workflow CI | Nenhuma |
-| 11. Git e organização | **PARCIAL** | `git_history.md`, branches locais | Criar/confirmar repositório remoto e publicar branches |
+| 11. Git e organização | **ATENDIDO** | `git_history.md`, branches locais e remotas (`main`, `develop`, `feature/*`) | Nenhuma |
 | 12. Vídeo até 5 minutos | **NÃO ATENDIDO** | `video/README.md` contém roteiro 4min45s | Aluna deve gravar rosto + dashboard e inserir link público |
-| 13. Evidências e publicação | **PARCIAL** | `docs/evidence/`, `dashboard_ui_inventory.json`, `project.json`, acesso do Looker configurado como não listado/leitor | Publicar no GitHub, adicionar screenshots e atualizar links |
+| 13. Evidências e publicação | **PARCIAL** | `docs/evidence/`, `dashboard_ui_inventory.json`, `project.json`, acesso do Looker configurado como não listado/leitor, repositório público publicado | Adicionar capturas versionadas e inserir o link real do vídeo após a gravação |
 
 ## Leitura honesta
 
-Os dados, ETL, métricas, análises e evidências estão reproduzíveis e validados. O estado parcial do dashboard/UI e a ausência do vídeo são limitações operacionais que não podem ser simuladas por código; o roteiro e as instruções deixam a etapa manual objetiva.
+Os dados, ETL, métricas, análises e evidências estão reproduzíveis e validados. O repositório público foi publicado em `https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein` com as branches listadas. O estado parcial dos testes manuais de filtros, a ausência de capturas versionadas e a ausência do vídeo são limitações operacionais que não podem ser simuladas por código; o roteiro e as instruções deixam as etapas manuais objetivas.
 
