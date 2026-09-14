@@ -2,7 +2,8 @@
   "repository": "https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein",
   "visibility": "public",
   "default_branch": "main",
-  "main_commit": "05ac0066529539057e353ec3f8e8676d35de1e73",
+  "initial_release_commit": "05ac0066529539057e353ec3f8e8676d35de1e73",
+  "latest_main_commit": "9a8507c23bd8ba8eb197d6d3c6dda10bf6df6c29",
   "published_files": 69,
   "branches": [
     "main",
