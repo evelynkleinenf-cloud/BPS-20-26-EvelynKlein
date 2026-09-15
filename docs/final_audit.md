@@ -20,5 +20,5 @@ Auditoria executada em 14/09/2026, comparando o enunciado com os arquivos versio
 
 ## Leitura honesta
 
-Os dados, ETL, métricas, análises e evidências estão reproduzíveis e validados. O repositório público foi publicado em `https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein` com as branches listadas. O estado parcial dos testes manuais de filtros, a ausência de capturas versionadas e a ausência do vídeo são limitações operacionais que não podem ser simuladas por código; o roteiro e as instruções deixam as etapas manuais objetivas.
+Os dados, ETL, métricas, análises e evidências estão reproduzíveis e validados. O repositório público foi publicado em `https://github.com/evelynkleinenf-cloud/BPS-20-26-EvelynKlein` com as branches listadas. A ausência de capturas versionadas e do vídeo são limitações operacionais que não podem ser simuladas por código; o roteiro e as instruções deixam as etapas manuais objetivas.
 
